@@ -1,0 +1,42 @@
+[INFO ] 2024-01-18 15:23:26.469 [main] AddtocartStepdef - Navigating to the URL
+[INFO ] 2024-01-18 15:23:30.285 [main] AddtocartStepdef - Performing the login process
+[INFO ] 2024-01-18 15:23:33.498 [main] AddtocartStepdef - Validating the login process
+[INFO ] 2024-01-18 15:23:35.533 [main] AddtocartStepdef - Clicking on the book menu
+[INFO ] 2024-01-18 15:23:37.522 [main] AddtocartStepdef - Validating add to cart buttons for all books
+[INFO ] 2024-01-18 15:23:53.178 [main] AddtocartStepdef - Navigating to the URL
+[INFO ] 2024-01-18 15:23:58.096 [main] AddtocartStepdef - Performing the login process
+[INFO ] 2024-01-18 15:24:01.282 [main] AddtocartStepdef - Validating the login process
+[INFO ] 2024-01-18 15:24:03.300 [main] AddtocartStepdef - Clicking on the book menu
+[INFO ] 2024-01-18 15:24:05.031 [main] AddtocartStepdef - Adding the third book to the cart
+[INFO ] 2024-01-18 15:24:11.958 [main] AddtocartStepdef - Validating the third book is successfully added to the cart
+[INFO ] 2024-01-18 15:24:13.989 [main] AddtocartStepdef - Navigating to the URL
+[INFO ] 2024-01-18 15:24:18.721 [main] AddtocartStepdef - Performing the login process
+[INFO ] 2024-01-18 15:24:22.819 [main] AddtocartStepdef - Validating the login process
+[INFO ] 2024-01-18 15:24:24.870 [main] AddtocartStepdef - Clicking on the book menu
+[INFO ] 2024-01-18 15:24:25.885 [main] AddtocartStepdef - Adding any 3 products to the cart
+[INFO ] 2024-01-18 15:24:31.948 [main] AddtocartStepdef - Deleting any two products from the cart
+[INFO ] 2024-01-18 15:24:39.345 [main] AddtocartStepdef - Validating the cart after deleting the products
+[INFO ] 2024-01-18 16:10:11.395 [main] AddtocartStepdef - Navigating to the URL
+[INFO ] 2024-01-18 16:10:16.171 [main] AddtocartStepdef - Performing the login process
+[INFO ] 2024-01-18 16:10:18.884 [main] AddtocartStepdef - Validating the login process
+[INFO ] 2024-01-18 16:10:20.928 [main] AddtocartStepdef - Clicking on the book menu
+[INFO ] 2024-01-18 16:10:22.226 [main] AddtocartStepdef - Adding the third book to the cart
+[INFO ] 2024-01-18 16:10:28.931 [main] AddtocartStepdef - Validating the third book is successfully added to the cart
+[INFO ] 2024-01-19 11:29:22.828 [main] AddtocartStepdef - Navigating to the URL
+[INFO ] 2024-01-19 11:29:26.472 [main] AddtocartStepdef - Performing the login process
+[INFO ] 2024-01-19 11:29:29.060 [main] AddtocartStepdef - Validating the login process
+[INFO ] 2024-01-19 11:29:31.095 [main] AddtocartStepdef - Clicking on the book menu
+[INFO ] 2024-01-19 11:29:32.578 [main] AddtocartStepdef - Validating add to cart buttons for all books
+[INFO ] 2024-01-19 11:29:47.080 [main] AddtocartStepdef - Navigating to the URL
+[INFO ] 2024-01-19 11:29:50.940 [main] AddtocartStepdef - Performing the login process
+[INFO ] 2024-01-19 11:29:53.021 [main] AddtocartStepdef - Validating the login process
+[INFO ] 2024-01-19 11:29:55.045 [main] AddtocartStepdef - Clicking on the book menu
+[INFO ] 2024-01-19 11:29:56.016 [main] AddtocartStepdef - Adding the third book to the cart
+[INFO ] 2024-01-19 11:30:02.014 [main] AddtocartStepdef - Validating the third book is successfully added to the cart
+[INFO ] 2024-01-19 11:30:05.444 [main] AddtocartStepdef - Navigating to the URL
+[INFO ] 2024-01-19 11:30:09.511 [main] AddtocartStepdef - Performing the login process
+[INFO ] 2024-01-19 11:30:11.752 [main] AddtocartStepdef - Validating the login process
+[INFO ] 2024-01-19 11:30:13.777 [main] AddtocartStepdef - Clicking on the book menu
+[INFO ] 2024-01-19 11:30:14.727 [main] AddtocartStepdef - Adding any 3 products to the cart
+[INFO ] 2024-01-19 11:30:19.322 [main] AddtocartStepdef - Deleting any two products from the cart
+[INFO ] 2024-01-19 11:30:23.549 [main] AddtocartStepdef - Validating the cart after deleting the products
